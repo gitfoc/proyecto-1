@@ -1,0 +1,22 @@
+form.elegante input {
+  padding: .2em;
+}
+
+.elegante label {
+  display: block;
+  margin: .5em 0 0 0;
+}
+
+.elegante .btn {
+  display: block;
+  margin: 1em 0;
+}
+
+.elegante div {
+  margin: .4em 0;
+}
+
+.elegante div label {
+  width: 25%;
+  float: left;
+}

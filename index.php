@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<!-- Versión 1.0 -->
+<!-- Versión 2.0 -->
 <head>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
 
@@ -21,6 +21,6 @@ $(document).ready(function(){
 Usuario: <input type="text" id="texto">
 </form>
 <!-- En el span con id="sugerencias" mostraremos las coincidencias -->
-<p><strong>Sugerencias:</strong> <span id="sugerencias" style="color: #0080FF;"></span></p>
+<p><strong>Sugerencias:</strong> <span id="sugerencias" style="color: #0080DD;"></span></p>
 </body>
 </html>
