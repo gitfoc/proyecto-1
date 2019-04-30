@@ -1,5 +1,5 @@
 <?php
-//Versión 1.0
+//Versión 1.1
 // Simulamos una consulta a la base de datos donde
 // se almacenarán los usuarios en un array $a[]
 $a[] = "Anna";
@@ -40,6 +40,7 @@ $q = $_REQUEST["q"];
 
 // Variable que contendrá las coincidencias
 $sugerencias = "";
+$sugerencias = "vacio";
 
 
 
